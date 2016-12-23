@@ -302,6 +302,7 @@
 				06F8CD641E0DC56400CDFB39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
